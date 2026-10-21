@@ -1,0 +1,19 @@
+
+body {
+    background-color: rgb(255, 245, 231);
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #0000ff;
+    text-shadow: 5px 5px 5px rgb(29, 147, 225);
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
