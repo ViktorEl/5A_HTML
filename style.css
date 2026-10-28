@@ -1,8 +1,8 @@
 
 body {
     background-color: rgb(255, 245, 231);
+    font-family: "Playwrite IT Trad", cursive;
 }
-
 
 
 h1 {
@@ -10,10 +10,19 @@ h1 {
     font-size: 50px;
     color: #0000ff;
     text-shadow: 5px 5px 5px rgb(29, 147, 225);
+    font-family: "Playwrite AR Guides", cursive;
 }
 
 p {
     font-size: 20px;
     text-align: justify;
+}
+
+.obr1 {
+    width: 200px;
+}
+
+.obr2 {
+    width: 400px;
 }
 
